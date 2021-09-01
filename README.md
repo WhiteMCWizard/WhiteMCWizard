@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Jonathan, im a dutch programmer.
-- 🌱 I’m currently learning React and React Native
