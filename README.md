@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Jonathan<br><br>I use arch btw
+👋 Hi, I’m Jonathan<br><br>I use arch btw<br><br><br>[pronouns.cc](https://pronouns.cc/@WhiteMCWizard)
 
 
 # 💻 Tech Stack:
