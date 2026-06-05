@@ -1,1 +1,1 @@
-![](https://charms-starring-announced-jones.trycloudflare.com/index.svg?10000)
+![](https://institution-echo-tokyo-beast.trycloudflare.com/index.svg)
