@@ -1,1 +1,1 @@
-![](https://institution-echo-tokyo-beast.trycloudflare.com/index.svg?1)
+![](https://raw.githubusercontent.com/WhiteMCWizard/WhiteMCWizard/refs/heads/main/tmp.svg)
