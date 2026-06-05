@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120">
+  <style>
+    .text {
+      font: 700 32px system-ui, sans-serif;
+      fill: #111827;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .text {
+        fill: #f9fafb;
+      }
+    }
+  </style>
+
+  <text x="30" y="70" class="text">test</text>
+</svg>
