@@ -13,7 +13,6 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=WhiteMCWizard&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://www.chrisdalke.com/doom.svg)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
