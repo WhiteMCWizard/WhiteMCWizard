@@ -1,1 +1,1 @@
-![](https://charms-starring-announced-jones.trycloudflare.com/image.svg)
+![](https://charms-starring-announced-jones.trycloudflare.com/)
