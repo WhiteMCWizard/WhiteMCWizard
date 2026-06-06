@@ -1,1 +1,1 @@
-[![](https://raw.githubusercontent.com/WhiteMCWizard/WhiteMCWizard/refs/heads/main/test.svg)](#)
+[![](https://raw.githubusercontent.com/WhiteMCWizard/WhiteMCWizard/refs/heads/main/test.svg?22)](#)
