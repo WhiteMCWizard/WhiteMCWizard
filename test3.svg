@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="220" viewBox="0 0 500 220">
   <style>
-    #button:hover ~ #box {
+    svg:hover #box {
       transform: translateY(-40px);
       fill: #f85149;
     }
@@ -22,19 +22,10 @@
     }
   </style>
 
-  <!-- Button -->
   <g id="button">
     <rect class="btn" x="320" y="85" width="130" height="55" rx="12"/>
-    <text class="btn-text" x="385" y="120" text-anchor="middle">Hover me</text>
+    <text class="btn-text" x="385" y="120" text-anchor="middle">Hover image</text>
   </g>
 
-  <!-- Animated object -->
-  <rect
-    id="box"
-    x="60"
-    y="90"
-    width="60"
-    height="60"
-    rx="12"
-  />
+  <rect id="box" x="60" y="90" width="60" height="60" rx="12"/>
 </svg>
